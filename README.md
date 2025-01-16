@@ -5,4 +5,5 @@ https://arxiv.org/pdf/1505.04597
 * main.ipynb(train, validation, inference)
 
 ## 회고
-* GPU 환경이 안되서 Colab을 통해 시도해볼려고 했지만, 아쉽게도 할당량 제한으로 인해 학습은 못했다...
+* kaggle GPU 할당으로 학습완료.
+* U-Net 학습결과를 보았을때 제대로 학습한거 같지만 논문에서 언급하는 Data Augmentation을 왜 사용하는지 이유를 알게되었다.
